@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"format_version":"1.10.0","animations":{"animation.ha_timer_supernova":{"animation_length":10.0,"timeline":{"0.0":["/tellraw @a {\"rawtext\": [{\"text\":\"§cUn gato supernova va a explotar cerca de: \"},{\"selector\":\"@p[r=200]\"}]}"],"9.9":["@s ha:super_cat_spawn"],"10.0":["/kill @e[type=item]"]},"loop":false}}}

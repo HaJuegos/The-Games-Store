@@ -1,0 +1,2 @@
+// (c) By Coptaine. Damage Indicator Add-on v3.1. This add-on is not mine and was not created by me, all credits to its respective creator. https://mcpedl.com/damage-indicator-add-on/
+{"materials":{"version":"1.0.0","particles_damage:particles_base":{"depthFunc":"Always","depthBias":1000000000.0,"slopeScaledDepthBias":0.1,"depthBiasOGL":0.5,"slopeScaledDepthBiasOGL":0.5,"+defines":["ALPHA_TEST","USE_EMISSIVE"]}}}

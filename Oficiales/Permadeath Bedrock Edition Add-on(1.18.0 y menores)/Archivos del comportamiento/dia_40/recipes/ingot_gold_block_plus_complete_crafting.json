@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"format_version":"1.17.0","minecraft:recipe_shapeless":{"description":{"identifier":"ha:ingot_gold_block_plus_complete_crafting"},"tags":["crafting_table"],"ingredients":[{"item":"ha:break_gold_block_one","count":1},{"item":"ha:break_gold_block_two","count":1}],"result":[{"item":"ha:gold_block_plus","count":1}]}}

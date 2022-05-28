@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"format_version":"1.8.0","animations":{"animation.potion_custom":{"loop":true,"bones":{"body":{"rotation":["query.camera_rotation(0)","query.camera_rotation(1)",0.0]}}}}}

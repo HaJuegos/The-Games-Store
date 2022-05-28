@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"minecraft:shulker_box"},"tags":["crafting_table"],"pattern":["-","#","-"],"key":{"#":{"item":"minecraft:chest"},"-":{"item":"ha:shulker_shell"}},"result":{"item":"minecraft:undyed_shulker_box"}}}

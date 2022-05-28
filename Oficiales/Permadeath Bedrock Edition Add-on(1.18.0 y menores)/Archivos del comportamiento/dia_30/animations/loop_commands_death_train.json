@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"format_version":"1.10.0","animations":{"animation.ha_command_loop_death_train":{"animation_length":1,"loop":true,"timeline":{"0.0":["/function death_train_system/loop_death_train"]}}}}

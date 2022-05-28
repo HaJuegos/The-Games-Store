@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.wither_fake.move":{"initial_state":"default","states":{"default":{"animations":["look_at_target","move","scale"]}}}}}

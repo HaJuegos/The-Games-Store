@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"format_version":"1.17.30","animation_controllers":{"controller.animation.ha_dead_shulker":{"initial_state":"default","states":{"default":{"transitions":[{"not_alive":"query.is_alive == 0"}]},"not_alive":{"transitions":[{"default":"!query.is_alive == 0"}],"on_entry":["/summon tnt ~ ~ ~"]}}}}}

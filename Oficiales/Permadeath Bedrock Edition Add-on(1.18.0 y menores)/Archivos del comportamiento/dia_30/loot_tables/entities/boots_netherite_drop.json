@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"pools":[{"rolls":1,"entries":[{"type":"empty","weight":80},{"type":"item","name":"minecraft:air","weight":20}],"conditions":[{"condition":"killed_by_player"}]}]}

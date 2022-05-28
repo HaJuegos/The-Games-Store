@@ -1,0 +1,14 @@
+// (c) HaJuegosくん- 2021
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "empty",
+					"weight": 100
+				}
+			]
+		}
+	]
+}

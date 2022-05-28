@@ -1,0 +1,17 @@
+// (c) HaJuegosくん- 2021
+{
+  "namespace": "common",
+  "help_button@common.button": {
+    "size": [ 15, 15 ],
+    "layer": 1,
+
+    "$default_texture|default": "textures/ui/how_to_play_button_default_light",
+    "$hover_texture|default": "textures/ui/how_to_play_button_hover_light",
+    "$pressed_texture|default": "textures/ui/how_to_play_button_pressed_light",
+
+    "$pressed_button_name": "button.help",
+
+    "controls": [
+    ]
+  }
+}

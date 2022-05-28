@@ -1,0 +1,39 @@
+{
+  "namespace": "trade2_pocket",
+
+  "trade_and_help_buttons": {
+    "type": "stack_panel",
+    "size": [ "100%", 32 ],
+    "orientation": "horizontal",
+    "controls": [
+      {
+        "trade_button_holder": {
+          "type": "panel",
+          "size": [ "fill", "100%" ],
+          "controls": [
+            {
+              "trade_button@trade2.trade_button": {
+                "size": [ "100%", "100%" ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "how_to_play_button_holder": {
+          "type": "panel",
+          "size": [ "100%c - 1px", "100%" ],
+          "controls": [
+            {
+              "quick_trade_button@trade2.quick_trade_button": {
+                "size": [ 32, 32 ],
+                "anchor_from": "right_middle",
+                "anchor_to": "right_middle"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

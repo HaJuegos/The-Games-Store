@@ -1,0 +1,2 @@
+## (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+execute @e[type=ha:death_train,scores={dm=0..59,dm=0..59}] ~ ~ ~ titleraw @a actionbar {"rawtext":[{"text":"§7Quedan "},{"score":{"name":"@s","objective":"dmh"}},{"score":{"name":"@s","objective":"dh"}},{"text":":"},{"score":{"name":"@s","objective":"dmm"}},{"score":{"name":"@s","objective":"dm"}},{"text":":"},{"score":{"name":"@s","objective":"dms"}},{"score":{"name":"@s","objective":"ds"}},{"text":" de tormenta §r"}]}

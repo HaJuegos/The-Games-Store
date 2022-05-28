@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"format_version":"1.16.100","minecraft:item":{"description":{"identifier":"ha:break_gold_block_one"},"components":{"minecraft:max_stack_size":64,"minecraft:creative_category":{"parent":"itemGroup.name.tools"},"minecraft:can_destroy_in_creative":false,"minecraft:allow_off_hand":true,"minecraft:icon":{"texture":"ha:break_gold_block_one"},"minecraft:render_offsets":"ingots"},"events":{}}}

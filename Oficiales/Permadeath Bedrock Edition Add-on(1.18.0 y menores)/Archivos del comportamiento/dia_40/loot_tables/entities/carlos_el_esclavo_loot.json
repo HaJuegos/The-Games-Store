@@ -1,0 +1,29 @@
+// (c) HaJuegosくん- 2021
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:air",
+					"weight": 30
+				},
+				{
+					"type": "item",
+					"name": "minecraft:gold_ingot",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 32,
+								"max": 32
+							}
+						}
+					],
+					"weight": 70
+				}
+			]
+		}
+	]
+}

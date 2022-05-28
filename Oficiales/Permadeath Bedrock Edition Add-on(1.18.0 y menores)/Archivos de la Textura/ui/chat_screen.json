@@ -1,0 +1,88 @@
+{
+  "namespace": "chat",
+
+  "bt_chat_tweaks_ac_image":{
+    "type": "image",
+    "size": [ 15, 15 ],
+    "texture": "textures/ui/tab_icon"
+  },
+
+  "tab_icon@chat.bt_chat_tweaks_ac_image": {
+    "texture": "textures/ui/tab_icon"
+  },
+  "shift_tab_icon@chat.bt_chat_tweaks_ac_image": {
+    "texture": "textures/ui/shift_tab_icon"
+  },
+  "up_icon@chat.bt_chat_tweaks_ac_image": {
+    "texture": "textures/ui/up_icon"
+  },
+  "down_icon@chat.bt_chat_tweaks_ac_image": {
+    "texture": "textures/ui/down_icon"
+  },
+
+  "bt_chat_tweaks_ac_button@common_buttons.light_glyph_button":{
+    "size": [ 24, 24 ],
+    "anchor_from": "bottom_right",
+    "anchor_to": "bottom_right"
+  },
+
+ "tab@chat.bt_chat_tweaks_ac_button": {
+    "$button_content": "chat.tab_icon",
+    "$pressed_button_name": "button.chat_autocomplete"
+  },
+  "shift_tab@chat.bt_chat_tweaks_ac_button": {
+    "$button_content": "chat.shift_tab_icon",
+    "$pressed_button_name": "button.chat_autocomplete_back"
+  },
+  "up@chat.bt_chat_tweaks_ac_button": {
+    "$button_content": "chat.up_icon",
+    "$pressed_button_name": "button.chat_previous_message"
+  },
+  "down@chat.bt_chat_tweaks_ac_button": {
+    "$button_content": "chat.down_icon",
+    "$pressed_button_name": "button.chat_next_message"
+  },
+
+
+  "bt_chat_tweaks_ac_panel":{
+    "type": "panel",
+    "anchor_from": "bottom_left",
+    "anchor_to": "bottom_left",
+    "offset": [ -40, -80  ],
+    "controls":[
+      {
+        "tab@chat.tab": {
+          "offset": [ -12, 12 ]
+        }
+      },
+      {
+        "shift_tab@chat.shift_tab": {
+          "offset": [ -12, -12 ]
+        }
+      },
+      {
+        "up@chat.up": {
+          "offset": [ 12, -12 ]
+        }
+      },
+      {
+        "down@chat.down": {
+          "offset": [ 12, 12 ]
+        }
+      }
+    ]
+  },
+
+  "chat_screen_content": {
+    "type": "panel",
+    "controls": [
+      { "messages_panel@chat.messages_scrolling_panel": {} },
+      { "chat_bottom_panel@chat.chat_bottom_panel": { "layer": 2 } },
+      { "chat_top_panel@chat.chat_header": { "layer": 2 } },
+      { "autocomplete_commands_panel@chat.commands_panel": { "layer": 3 } },
+      { "host_main_panel@host_options.host_panel": { "layer": 4 } },
+      { "popup_factory@chat_settings.popup_factory": {} },
+      { "bt_chat_tweaks_ac_panel@chat.bt_chat_tweaks_ac_panel": {} }
+    ]
+  }
+}

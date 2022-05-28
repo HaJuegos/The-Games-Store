@@ -1,0 +1,2 @@
+// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
+{"format_version":"1.12","minecraft:recipe_furnace":{"description":{"identifier":"minecraft:furnace_ancient_debris"},"tags":["furnace","blast_furnace"],"input":"minecraft:ancient_debris","output":"ha:melted_ingot_netherite"}}
