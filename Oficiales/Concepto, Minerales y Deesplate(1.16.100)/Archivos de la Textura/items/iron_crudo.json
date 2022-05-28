@@ -1,0 +1,13 @@
+//~©Ha Juegos 2021 Copyright
+{
+	"format_version": "1.10.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ha:iron_crudo",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:icon": "iron_crudo"
+		}
+	}
+}
