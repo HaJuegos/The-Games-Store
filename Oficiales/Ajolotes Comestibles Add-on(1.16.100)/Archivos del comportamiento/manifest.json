@@ -1,0 +1,30 @@
+// (c) HaJuegosくん- 2021
+{
+	"format_version": 1,
+	"header": {
+		"name": "§a[BP]§r §2Ajolote Comestible By ha juegos",
+		"description": "Creado por §c§lHa Juegos.§r youtube.com/channel/UCvuaxYzlotxb-n_cH3KAQww/ discord.gg/p6a7tqVJxn. Copyright [2021] [Ha Juegos]",
+		"uuid": "86f4cbff-be28-492a-a2fd-f5b490b3f459",
+		"version": [
+			1,
+			0,
+			1
+		],
+		"min_engine_version": [
+			1,
+			8,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "6b098c3a-25dd-4cac-9d93-942dfad9e90a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
