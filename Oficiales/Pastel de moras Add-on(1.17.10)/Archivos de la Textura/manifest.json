@@ -1,0 +1,30 @@
+// (c) HaJuegosくん- 2021
+{
+	"format_version": 2,
+	"header": {
+		"name": "[RP] Sweet berry cake block By ha juegos",
+		"description": "Creado por §c§lHa Juegos.§r youtube.com/channel/UCvuaxYzlotxb-n_cH3KAQww/ discord.gg/p6a7tqVJxn. Copyright [2021] [Ha Juegos]",
+		"uuid": "392b8a8c-9841-4f1a-9e22-5e8f1896c019",
+		"version": [
+			2,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "53b46517-838a-4a62-8ddf-9eb8ccf92125",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
