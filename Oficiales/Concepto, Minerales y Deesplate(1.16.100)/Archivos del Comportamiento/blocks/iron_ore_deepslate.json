@@ -1,0 +1,16 @@
+//~©Ha Juegos 2021 Copyright
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "ha:iron_ore_deepslate",
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:destroy_time": 4.5,
+			"minecraft:explosion_resistance": 5,
+			"minecraft:map_color": "#3B3004"
+		},
+		"events": {}
+	}
+}
