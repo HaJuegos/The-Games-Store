@@ -1,0 +1,15 @@
+//~©Ha Juegos 2021 Copyright
+{
+	"format_version": 1.12,
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "ha:furnace_gold_crudo"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "ha:oro_crudo",
+		"output": "minecraft:gold_ingot"
+	}
+}
