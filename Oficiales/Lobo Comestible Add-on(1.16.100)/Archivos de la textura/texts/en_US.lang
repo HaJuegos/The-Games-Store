@@ -1,0 +1,6 @@
+## (c) HaJuegosくん- 2021
+item.ha:hotdog=Hotdog
+item.ha:hotdog.name=Hotdog
+tile.ha:wolf_block=Wolf
+tile.ha:wolf_block.name=Wolf
+action.dog=Grab The Dog

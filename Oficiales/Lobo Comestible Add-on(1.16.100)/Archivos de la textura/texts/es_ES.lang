@@ -1,0 +1,6 @@
+## (c) HaJuegosくん- 2021
+item.ha:hotdog=Perro Caliente
+item.ha:hotdog.name=Perro Caliente
+tile.ha:wolf_block=Lobo
+tile.ha:wolf_block.name=Lobo
+action.dog=Coger al lobo
