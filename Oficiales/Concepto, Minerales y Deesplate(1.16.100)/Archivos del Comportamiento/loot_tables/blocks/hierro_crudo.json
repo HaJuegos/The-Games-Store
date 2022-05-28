@@ -1,0 +1,15 @@
+//~©Ha Juegos 2021 Copyright
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "ha:iron_crudo",
+					"weight": 1
+				}
+			]
+		}
+	]
+}
