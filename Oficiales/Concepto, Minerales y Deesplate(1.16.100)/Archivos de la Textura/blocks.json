@@ -1,0 +1,16 @@
+//~©Ha Juegos 2021 Copyright
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"ha:gold_ore_deepslate": {
+		"sound": "ancient_debris",
+		"textures": "ha:gold_ore_deepslate"
+	},
+	"ha:iron_ore_deepslate": {
+		"sound": "ancient_debris",
+		"textures": "ha:iron_ore_deepslate"
+	}
+}
