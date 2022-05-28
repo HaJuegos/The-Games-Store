@@ -1,0 +1,72 @@
+// (c) HaJuegosくん- 2021
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "ha:pastel_bloque",
+			"is_experimental": true
+		},
+		"components": {
+			"minecraft:destroy_time": 1.5,
+			"minecraft:map_color": "#838E99",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "ha:pastel_bloque",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:geometry": "geometry.pastel",
+			"minecraft:block_light_absorption": 0,
+			"minecraft:entity_collision": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					15,
+					8.8,
+					15
+				]
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					15,
+					8.8,
+					15
+				]
+			},
+			"minecraft:on_interact": {
+				"event": "comer"
+			}
+		},
+		"events": {
+			"comer": {
+				"run_command": {
+					"command": [
+						"playsound random.eat @p ~ ~ ~"
+					]
+				},
+				"set_block_at_pos": {
+					"block_type": "minecraft:air",
+					"block_offset": [
+						0,
+						0,
+						0
+					]
+				},
+				"add_mob_effect": {
+					"effect": "saturation",
+					"target": "other",
+					"duration": 20,
+					"amplifier": 1
+				}
+			}
+		}
+	}
+}
