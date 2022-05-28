@@ -1,0 +1,27 @@
+// (c) HaJuegosくん- 2021
+{
+	"resource_pack_name": "haRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"ha:boiled_axolotl": {
+			"textures": [
+				"textures/items/boiled_axolotl"
+			]
+		},
+		"ha:cooked_axolotl": {
+			"textures": [
+				"textures/items/cooked_ajolot"
+			]
+		},
+		"bucket_axolotl": {
+			"textures": [
+				"textures/items/bucket_axolotl"
+			]
+		},
+		"ha:potion_and_axolotl": {
+			"textures": [
+				"textures/items/potion_and_axolot"
+			]
+		}
+	}
+}
