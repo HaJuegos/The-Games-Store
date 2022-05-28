@@ -1,0 +1,14 @@
+// (c) HaJuegosくん- 2021
+{
+	"format_version": 1.10,
+	"minecraft:item": {
+		"description": {
+			"identifier": "ha:pastel",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:icon": "pastel_texture",
+			"minecraft:use_animation": "eat"
+		}
+	}
+}
