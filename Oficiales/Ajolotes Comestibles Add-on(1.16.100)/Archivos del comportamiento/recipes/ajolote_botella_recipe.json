@@ -1,0 +1,28 @@
+// (c) HaJuegosくん- 2021
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "ha:ajolote_botella_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:axolotl_bucket",
+				"count": 1
+			},
+			{
+				"item": "minecraft:glass_bottle",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "ha:axolot_in_potion",
+				"count": 1
+			}
+		]
+	}
+}
