@@ -1,0 +1,34 @@
+//~©Ha Juegos 2021 Copyright
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.enc": {
+			"initial_state": "detectar",
+			"states": {
+				"detectar": {
+					"transitions": [
+						{
+							"looting": "(q.get_equipped_item_name == 'wooden_pickaxe' || q.get_equipped_item_name == 'iron_pickaxe' || q.get_equipped_item_name == 'stone_pickaxe' || q.get_equipped_item_name == 'diamond_pickaxe' || q.get_equipped_item_name == 'netherite_pickaxe' || q.get_equipped_item_name == 'golden_pickaxe') && query.is_enchanted"
+						}
+					],
+					"on_entry": [
+						"/scoreboard objectives add loot dummy loot"
+					]
+				},
+				"looting": {
+					"transitions": [
+						{
+							"detectar": "(q.get_equipped_item_name != 'wooden_pickaxe' || q.get_equipped_item_name != 'iron_pickaxe' || q.get_equipped_item_name != 'stone_pickaxe' || q.get_equipped_item_name != 'diamond_pickaxe' || q.get_equipped_item_name != 'netherite_pickaxe' || q.get_equipped_item_name != 'golden_pickaxe')"
+						},
+						{
+							"detectar": "(1.0)"
+						}
+					],
+					"on_entry": [
+						"@s ha:encantado"
+					]
+				}
+			}
+		}
+	}
+}
