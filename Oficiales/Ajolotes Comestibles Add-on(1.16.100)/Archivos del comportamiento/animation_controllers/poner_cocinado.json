@@ -1,0 +1,41 @@
+// (c) HaJuegosくん- 2021
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.poner_ajolote_c": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"usar": "query.get_equipped_item_name == 'cooked_ajolotl'"
+						},
+						{
+							"quitar": "query.get_equipped_item_name != 'cooked_ajolotl'"
+						}
+					]
+				},
+				"usar": {
+					"transitions": [
+						{
+							"default": "(1.0)"
+						}
+					],
+					"on_entry": [
+						"@s ha:usando"
+					]
+				},
+				"quitar": {
+					"transitions": [
+						{
+							"default": "(1.0)"
+						}
+					],
+					"on_entry": [
+						"@s ha:no_usando"
+					]
+				}
+			}
+		}
+	}
+}
