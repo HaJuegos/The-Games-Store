@@ -1,0 +1,43 @@
+// (c) HaJuegosくん- 2021
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ha:axolotl_bucket"
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:can_destroy_in_creative": true,
+			"minecraft:allow_off_hand": true,
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.items"
+			},
+			"minecraft:icon": {
+				"texture": "bucket_axolotl"
+			},
+			"minecraft:block_placer": {
+				"block": "minecraft:flowing_water"
+			},
+			"minecraft:entity_placer": {
+				"entity": "minecraft:axolotl"
+			},
+			"minecraft:on_use": {
+				"on_use": {
+					"event": "poner"
+				}
+			},
+			"minecraft:fuel": {
+				"duration": 100
+			}
+		},
+		"events": {
+			"poner": {
+				"run_command": {
+					"command": [
+						"replaceitem entity @s slot.weapon.mainhand 0 bucket"
+					]
+				}
+			}
+		}
+	}
+}
