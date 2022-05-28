@@ -1,0 +1,40 @@
+//~©Ha Juegos 2021 Copyright
+{
+	"format_version": 2,
+	"header": {
+		"name": "[BP] Minerales De Deepslate y Minerales crudos By Ha Juegos [1.16+]",
+		"description": "[BP] Minerales De Deepslate y Minerales crudos para MCBE 1.16+. Creado por §c§lHa Juegos.§r youtube.com/channel/UCvuaxYzlotxb-n_cH3KAQww/ discord.gg/p6a7tqVJxn. Copyright [2021] [Ha Juegos]",
+		"uuid": "700bd6ac-5065-4d5c-bbff-7182f07d1510",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "44433561-b911-4b51-93e8-056500c8390c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "e555ed4f-ba53-445a-8c64-2ba6145d5935"
+		}
+	]
+}
