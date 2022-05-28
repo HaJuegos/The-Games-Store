@@ -1,0 +1,15 @@
+// (c) HaJuegosくん- 2021
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "ha:boiled_axolotl",
+					"weight": 100
+				}
+			]
+		}
+	]
+}
