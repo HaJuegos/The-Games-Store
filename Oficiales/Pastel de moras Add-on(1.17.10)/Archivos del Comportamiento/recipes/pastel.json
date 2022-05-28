@@ -1,0 +1,31 @@
+// (c) HaJuegosくん- 2021
+{
+	"format_version": 1.16,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ha:pastel"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"#S#",
+			"###"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:sweet_berries"
+			},
+			"S": {
+				"item": "minecraft:cake"
+			}
+		},
+		"result": [
+			{
+				"item": "ha:pastel",
+				"count": 1
+			}
+		]
+	}
+}
