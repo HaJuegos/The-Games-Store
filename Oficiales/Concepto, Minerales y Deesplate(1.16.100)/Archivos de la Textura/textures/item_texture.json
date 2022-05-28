@@ -1,0 +1,17 @@
+//~©Ha Juegos 2021 Copyright
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"oro_crudo": {
+			"textures": [
+				"textures/items/oro_crudo"
+			]
+		},
+		"iron_crudo": {
+			"textures": [
+				"textures/items/iron_crudo"
+			]
+		}
+	}
+}
