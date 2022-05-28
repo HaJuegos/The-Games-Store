@@ -1,0 +1,14 @@
+// (c) HaJuegosくん- 2021
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "hajuegos",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"ha:pastel_bloque": {
+			"textures": [
+				"textures/blocks/texture_block_pastel"
+			]
+		}
+	}
+}

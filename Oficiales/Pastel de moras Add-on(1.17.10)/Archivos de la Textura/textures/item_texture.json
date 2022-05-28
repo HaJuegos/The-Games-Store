@@ -1,0 +1,12 @@
+// (c) HaJuegosくん- 2021
+{
+	"resource_pack_name": "haRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"pastel_texture": {
+			"textures": [
+				"textures/items/cake_rico"
+			]
+		}
+	}
+}
