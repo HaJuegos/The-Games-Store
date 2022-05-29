@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/HaJuegos/Lord-Garfield-Map"><img src="https://img.shields.io/github/stars/HaJuegos/Lord-Garfield-Map?label=Current%20stars&style=plastic&logo=github&color=blueviolet" alt="GitHub Stars "/></a>
-  <a href="https://www.youtube.com/watch?v=7mA2c0vx2VQ&t=166s"><img src="https://img.shields.io/youtube/views/7mA2c0vx2VQ?style=plastic&logo=youtube&color=red&label=Original%20Video" alt="Youtube "/></a>
+  <a href="https://www.youtube.com/watch?v=7mA2c0vx2VQ&"><img src="https://img.shields.io/youtube/views/mA2c0vx2VQ&?style=plastic&logo=youtube&color=red&label=Original%20Video" alt="Youtube "/></a>
 </p>
 
 ## ¿PORQUE ES BETA?
