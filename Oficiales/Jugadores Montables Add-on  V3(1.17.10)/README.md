@@ -30,4 +30,4 @@ Un Curioso add-on donde lo que puedes hacer... es montarte como loro en otro jug
 - _Este add-on requiere de estas opciones experimentales activas en tu mundo para poder funcionan de forma correcta, Procura tenerlo activo._
 
 ![oldui](https://github.com/HaJuegos/The-Games-Store/blob/main/.github/icon_template/axol/oldui_1.png)
-![newui](https://github.com/HaJuegos/The-Games-Store/blob/main/.github/icon_template/axol/newui_2.png)
+![newui](https://github.com/HaJuegos/The-Games-Store/blob/main/.github/icon_template/axol/newui_1.png)
