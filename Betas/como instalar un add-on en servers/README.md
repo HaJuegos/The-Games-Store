@@ -5,7 +5,7 @@
 - **__¡¡ATENCION!! ANTES DE SEGUIR ESTOS PASOS TENGA EN CUENTA QUE ESTE METODO DE INSTALACION NO FUNCIONA CON ATERNOS Y ES SOLO PARA MINECRAFT BEDROCK EDITION__**
 - **__¡¡ATENCION!! ANTES DE SEGUIR ESTOS PASOS TENGA EN CUENTA QUE ESTE METODO DE INSTALACION NO FUNCIONA CON ATERNOS Y ES SOLO PARA MINECRAFT BEDROCK EDITION__**
 
-| Visitar                       | Descipcion |
+| Visitar                       | Descripcion |
 | -------------------------- | ------------ |
 | [Tutorial de Instalacion](https://github.com/HaJuegos/The-Games-Store/blob/main/Betas/como%20instalar%20un%20add-on%20en%20servers/README.md#paso-1) | Todo lo que necesites saber sobre como instalar un add-on en servers   |
 | [Preguntas Frecuentes](https://github.com/HaJuegos/The-Games-Store/blob/main/Betas/como%20instalar%20un%20add-on%20en%20servers/README.md#preguntas-frecuentes)   | Mira las preguntas que son mas frecuentadas del articulo     |
