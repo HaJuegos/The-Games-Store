@@ -69,14 +69,14 @@
 
 ## Paso 7:
 
-- Regresaremos a la carpeta del mundo donde estaban los anteriores archivos que dijimos [**__En el Paso 2__**](https://github.com/HaJuegos/The-Games-Store/edit/main/Betas/como%20instalar%20un%20add-on%20en%20servers/README.md#paso-2) y abrimos el archivo llamado: `world_behavior_packs.json` (dado caso que hayas iniciado por las texturas, entonces debes abrir el archivo `world_resource_packs.json`)
+- Regresaremos a la carpeta del mundo donde estaban los anteriores archivos que dijimos [**__En el Paso 2__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers#paso-2) y abrimos el archivo llamado: `world_behavior_packs.json` (dado caso que hayas iniciado por las texturas, entonces debes abrir el archivo `world_resource_packs.json`)
 
 ![7](https://cdn.discordapp.com/attachments/997603479822536794/997603657564553296/7.png)
 
 
 ## Paso 8:
 
-- Al abrir este, te dejara estas lineas de codigo, lo que tienes que hacer es remplazar el apartado de `pack_id` por el `uuid` que copiaste anteriormente [**__En el Paso 6__**](https://github.com/HaJuegos/The-Games-Store/edit/main/Betas/como%20instalar%20un%20add-on%20en%20servers/README.md#paso-6), y el apartado de `version` tambien lo remplazas por el que copiaste
+- Al abrir este, te dejara estas lineas de codigo, lo que tienes que hacer es remplazar el apartado de `pack_id` por el `uuid` que copiaste anteriormente [**__En el Paso 6__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers#paso-6), y el apartado de `version` tambien lo remplazas por el que copiaste
 
 ![8](https://cdn.discordapp.com/attachments/997603479822536794/997603657916895333/8.gif)
 
