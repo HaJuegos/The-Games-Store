@@ -7,7 +7,7 @@ Todo tipo de creacion de @Ha Juegos, Aqui almacenado, Divietete!</p>
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/p6a7tqVJxn"><img src="https://img.shields.io/discord/782053401281429504?style=plastic&color=red&logo=discord&label=Mi%20Server%20de%20Discord" alt="Discord "/></a>
+  <a href="https://discord.gg/9jZHkhu86P"><img src="https://img.shields.io/discord/782053401281429504?style=plastic&color=red&logo=discord&label=Mi%20Server%20de%20Discord" alt="Discord "/></a>
   <a href="https://ko-fi.com/hajuegos0710"><img src="https://img.shields.io/npm/v/express?url=https://ko-fi.com/hajuegos0710&style=plastic&logo=kofi&label=Mi%20Pagina%20de%20Donaciones&color=inactive" alt="Ko-Fi "/></a>
   <a href="https://github.com/HaJuegos/The-Games-Store"><img src="https://img.shields.io/github/stars/HaJuegos/The-Games-Store?label=Total%20de%20Estrellas&style=plastic&logo=github&color=blueviolet" alt="GitHub Stars "/></a>
 </p>
@@ -36,7 +36,7 @@ Todo tipo de creacion de @Ha Juegos, Aqui almacenado, Divietete!</p>
 ## ¿DONDE ME ENTERO DE TODO MAS RAPIDO?
 
 <p align="center">
-	<a href="https://discord.gg/p6a7tqVJxn"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="Discordimage" width=100 /></a>
+	<a href="https://discord.gg/9jZHkhu86P"><img src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="Discordimage" width=100 /></a>
 	<h5 align="center">Discord</h5></p>
 	<p align="center">
 	<a href="https://youtube.com/c/HaJuegos"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="Youtubeimage" width=100 /></a>
