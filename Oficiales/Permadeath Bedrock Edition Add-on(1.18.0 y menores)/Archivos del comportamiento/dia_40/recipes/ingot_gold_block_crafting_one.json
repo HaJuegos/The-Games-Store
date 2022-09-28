@@ -1,2 +1,0 @@
-// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
-{"format_version":"1.17.0","minecraft:recipe_shaped":{"description":{"identifier":"ha:ingot_block_plus_crafting_one"},"tags":["crafting_table"],"pattern":["###","#VV","VVV"],"key":{"#":{"item":"minecraft:gold_block"}},"result":[{"item":"ha:break_gold_block_one","count":1}]}}

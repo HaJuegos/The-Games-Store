@@ -1,2 +1,0 @@
-// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
-{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"minecraft:netherite_ingot"},"tags":["crafting_table"],"ingredients":[{"item":"minecraft:netherite_scrap","count":4},{"item":"minecraft:gold_ingot","count":4}],"result":{"item":"ha:break_ingot_netherite","count":1}}}

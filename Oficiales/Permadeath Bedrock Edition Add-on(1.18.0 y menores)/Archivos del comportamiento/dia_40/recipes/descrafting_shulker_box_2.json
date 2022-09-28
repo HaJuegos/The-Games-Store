@@ -1,2 +1,0 @@
-// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
-{"format_version":1.12,"minecraft:recipe_shaped":{"description":{"identifier":"ha:shulker_shell_perma_2"},"tags":["crafting_table"],"pattern":["K"],"key":{"K":{"item":"minecraft:shulker_box"}},"result":[{"item":"ha:shulker_shell","count":2}]}}

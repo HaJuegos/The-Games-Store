@@ -1,2 +1,0 @@
-// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
-{"format_version":"1.16.100","minecraft:item":{"description":{"identifier":"ha:relic_of_the_end"},"components":{"minecraft:max_stack_size":1,"minecraft:hand_equipped":false,"minecraft:can_destroy_in_creative":false,"minecraft:allow_off_hand":true,"minecraft:explodable":false,"minecraft:creative_category":{"parent":"itemGroup.name.tools"},"minecraft:icon":{"texture":"ha:reliquia"}},"events":{}}}

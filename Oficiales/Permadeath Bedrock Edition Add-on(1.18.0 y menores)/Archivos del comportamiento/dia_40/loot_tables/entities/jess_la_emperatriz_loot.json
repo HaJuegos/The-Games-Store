@@ -1,2 +1,0 @@
-// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
-{"pools":[{"rolls":1,"entries":[{"type":"item","name":"minecraft:air","weight":30},{"type":"item","name":"minecraft:golden_apple","functions":[{"function":"set_count","count":{"min":2,"max":2}}],"weight":70}]}]}

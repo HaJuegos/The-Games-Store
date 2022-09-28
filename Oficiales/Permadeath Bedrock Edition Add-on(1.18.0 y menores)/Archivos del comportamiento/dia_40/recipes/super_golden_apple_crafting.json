@@ -1,2 +1,0 @@
-// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
-{"format_version":"1.17.0","minecraft:recipe_shaped":{"description":{"identifier":"ha:super_golden_apple_crafting"},"tags":["crafting_table"],"pattern":["OOO","OMO","OOO"],"key":{"O":{"item":"ha:gold_ingot_plus"},"M":{"item":"minecraft:golden_apple"}},"result":[{"item":"ha:super_golden_apple","count":1}]}}

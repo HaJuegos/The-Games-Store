@@ -1,2 +1,0 @@
-// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
-{"format_version":"1.17.30","animation_controllers":{"controller.animation.ha_intro":{"initial_state":"default","states":{"default":{"transitions":[{"activate":"query.is_moving"}]},"activate":{"transitions":[{"default":"(0.0)"}],"on_entry":["/function system_commands/welcome_intro"]}}}}}

@@ -1,2 +1,0 @@
-// (c) HaJuegosくん- 2021 - Do not modify or impersonate the creator of this code without first asking for authorization, you may be sanctioned.
-{"format_version":1.16,"minecraft:recipe_shaped":{"description":{"identifier":"ha:relic"},"tags":["crafting_table"],"pattern":["X","G","X"],"key":{"X":{"item":"ha:shulker_shell"},"G":{"item":"minecraft:diamond_block"}},"result":[{"item":"ha:relic_of_the_end","count":1}]}}
