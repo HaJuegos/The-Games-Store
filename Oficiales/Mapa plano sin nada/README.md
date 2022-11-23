@@ -25,3 +25,4 @@ Un Mundo plano de Minecraft Bedrock pero sin nada de bloques en forma de plantil
 - Al crear un mundo, ve a una parte de abajo en las plantillas y ahi encontraras el nombre de la plantilla y en base a esa plantilla, haces tu mundo.
 
 ![imagendeejemplo](https://cdn.discordapp.com/attachments/886014891738144798/1045108155383812096/image.png)
+![otraimagen](https://media.discordapp.net/attachments/964653057390546954/997570733473550536/exmple.png)
