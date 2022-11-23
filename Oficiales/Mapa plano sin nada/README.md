@@ -14,7 +14,7 @@ Un Mundo plano de Minecraft Bedrock pero sin nada de bloques en forma de plantil
 
 ## DESCARGA	
 
-- [__CLICK AQUI PARA DESCARGAR EL MAPA__]()
+- [__CLICK AQUI PARA DESCARGAR EL MAPA__](https://github.com/HaJuegos/The-Games-Store/raw/main/Oficiales/Mapa%20plano%20sin%20nada/%5BWT%5D%20Mundo%20Plano%20Sin%20Bloques%20By%20Ha%20Juegos%20Cat!.mctemplate)
 
 ## NOTAS DE USO
 
@@ -22,5 +22,6 @@ Un Mundo plano de Minecraft Bedrock pero sin nada de bloques en forma de plantil
 
 ## GUIA DE USO
 
-- Al crear un mundo, ve a una parte de abajo en las plantillas y ahi encontraras el nombre de la plantilla y en base a esa plantilla, haces tu mundo
+- Al crear un mundo, ve a una parte de abajo en las plantillas y ahi encontraras el nombre de la plantilla y en base a esa plantilla, haces tu mundo.
+
 ![imagendeejemplo](https://cdn.discordapp.com/attachments/886014891738144798/1045108155383812096/image.png)
