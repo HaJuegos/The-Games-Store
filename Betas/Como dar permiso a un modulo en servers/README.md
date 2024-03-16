@@ -6,8 +6,8 @@
 
 | Visitar                       | Descripcion |
 | -------------------------- | ------------ |
-| [Tutorial de Instalacion](https://github.com/HaJuegos/The-Games-Store/blob/main/Betas/Como%20dar%20permiso%20a%%20modulo%20en%20servers/README.md#paso-1) | Todo lo que necesites saber sobre como instalar un add-on en servers   |
-| [Preguntas Frecuentes](https://github.com/HaJuegos/The-Games-Store/blob/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/README.md#preguntas-frecuentes)   | Mira las preguntas que son mas frecuentadas del articulo     |
+| [Tutorial de Instalacion](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers#paso-1) | Todo lo que necesites saber sobre como instalar un add-on en servers   |
+| [Preguntas Frecuentes](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers#preguntas-frecuentes)   | Mira las preguntas que son mas frecuentadas del articulo     |
 
 ## PASO 1:
 - Lo primero que haremos, es localizar la carpeta llamada **config** en los archivos de tu server dedicado, en este ejemplo, usaremos un server dedicado vanilla de SparkedHost.
