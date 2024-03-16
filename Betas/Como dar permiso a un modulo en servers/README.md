@@ -12,47 +12,47 @@
 ## PASO 1:
 - Lo primero que haremos, es localizar la carpeta llamada **config** en los archivos de tu server dedicado, en este ejemplo, usaremos un server dedicado vanilla de SparkedHost.
 
-![paso1]()
+![paso1](https://raw.githubusercontent.com/HaJuegos/The-Games-Store/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/images/paso1.png)
 
 
 ## PASO 2:
 - Dentro de esta carpeta, entra en la subcarpeta llamada **default**.
 
-![paso2]()
+![paso2](https://raw.githubusercontent.com/HaJuegos/The-Games-Store/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/images/paso2.png)
 
 
 ## PASO 3:
 - Ahora, en esta subcarpeta abriremos este archivo llamado **permissions.json**.
 
-![paso3]()
+![paso3](https://raw.githubusercontent.com/HaJuegos/The-Games-Store/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/images/paso3.png)
 
 
 ## PASO 4:
 - Por defecto, este archivo esta organizado de esta forma:
 
-![paso4]()
+![paso4](https://raw.githubusercontent.com/HaJuegos/The-Games-Store/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/images/paso4.png)
 
 
 - Lo que haremos, es agregar primero, una coma en esta linea:
 
-![paso4_1]()
+![paso4_1](https://raw.githubusercontent.com/HaJuegos/The-Games-Store/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/images/paso4_1.png)
 
 
 - Y finalmente agregaremos otra nueva linea del modulo que nos pide permiso, en este ejemplo, es "@minecraft/debug-utilities".
 
-![paso4_2]() ![paso4_3]()
+![paso4_2](https://raw.githubusercontent.com/HaJuegos/The-Games-Store/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/images/paso4_2.png) ![paso4_3](https://raw.githubusercontent.com/HaJuegos/The-Games-Store/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/images/paso4_3.png)
 
 
 ## PASO 5:
 - Guardamos los cambios del archivo.
 
-![paso5]()
+![paso5](https://raw.githubusercontent.com/HaJuegos/The-Games-Store/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/images/paso5.png)
 
 
 ## PASO 6:
 - Hecho esto, reiniciamos el servidor y comprobamos que ya no nos solicite el permiso de dicho modulo en la consola del servidor y listo! Con esto los scripts del add-on ya funcionaran correctamente.
 
-![paso6]()
+![paso6](https://raw.githubusercontent.com/HaJuegos/The-Games-Store/main/Betas/Como%20dar%20permiso%20a%20un%20modulo%20en%20servers/images/paso6.png)
 
 
 
